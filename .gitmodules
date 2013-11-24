@@ -1,0 +1,12 @@
+[submodule "awstool"]
+	path = awstool
+	url = git://github.com/ryoogata/awstool.git
+[submodule "selenium"]
+	path = selenium
+	url = git://github.com/ryoogata/selenium.git
+[submodule "browser"]
+	path = browser
+	url = git://github.com/ryoogata/browser.git
+[submodule "splunk"]
+	path = splunk
+	url = git://github.com/ryoogata/splunk.git
